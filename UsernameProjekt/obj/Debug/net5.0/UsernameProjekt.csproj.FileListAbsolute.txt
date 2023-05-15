@@ -1,0 +1,16 @@
+C:\Users\bergman.william\Documents\ProgrammeringVSC\UsernameProjekt\UsernameProjekt\obj\Debug\net5.0\UsernameProjekt.csproj.AssemblyReference.cache
+C:\Users\bergman.william\Documents\ProgrammeringVSC\UsernameProjekt\UsernameProjekt\obj\Debug\net5.0\UsernameProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bergman.william\Documents\ProgrammeringVSC\UsernameProjekt\UsernameProjekt\obj\Debug\net5.0\UsernameProjekt.AssemblyInfoInputs.cache
+C:\Users\bergman.william\Documents\ProgrammeringVSC\UsernameProjekt\UsernameProjekt\obj\Debug\net5.0\UsernameProjekt.AssemblyInfo.cs
+C:\Users\bergman.william\Documents\ProgrammeringVSC\UsernameProjekt\UsernameProjekt\obj\Debug\net5.0\UsernameProjekt.csproj.CoreCompileInputs.cache
+C:\Users\bergman.william\Documents\ProgrammeringVSC\UsernameProjekt\UsernameProjekt\bin\Debug\net5.0\UsernameProjekt.exe
+C:\Users\bergman.william\Documents\ProgrammeringVSC\UsernameProjekt\UsernameProjekt\bin\Debug\net5.0\UsernameProjekt.deps.json
+C:\Users\bergman.william\Documents\ProgrammeringVSC\UsernameProjekt\UsernameProjekt\bin\Debug\net5.0\UsernameProjekt.runtimeconfig.json
+C:\Users\bergman.william\Documents\ProgrammeringVSC\UsernameProjekt\UsernameProjekt\bin\Debug\net5.0\UsernameProjekt.runtimeconfig.dev.json
+C:\Users\bergman.william\Documents\ProgrammeringVSC\UsernameProjekt\UsernameProjekt\bin\Debug\net5.0\UsernameProjekt.dll
+C:\Users\bergman.william\Documents\ProgrammeringVSC\UsernameProjekt\UsernameProjekt\bin\Debug\net5.0\UsernameProjekt.pdb
+C:\Users\bergman.william\Documents\ProgrammeringVSC\UsernameProjekt\UsernameProjekt\obj\Debug\net5.0\UsernameProjekt.dll
+C:\Users\bergman.william\Documents\ProgrammeringVSC\UsernameProjekt\UsernameProjekt\obj\Debug\net5.0\refint\UsernameProjekt.dll
+C:\Users\bergman.william\Documents\ProgrammeringVSC\UsernameProjekt\UsernameProjekt\obj\Debug\net5.0\UsernameProjekt.pdb
+C:\Users\bergman.william\Documents\ProgrammeringVSC\UsernameProjekt\UsernameProjekt\obj\Debug\net5.0\UsernameProjekt.genruntimeconfig.cache
+C:\Users\bergman.william\Documents\ProgrammeringVSC\UsernameProjekt\UsernameProjekt\obj\Debug\net5.0\ref\UsernameProjekt.dll
