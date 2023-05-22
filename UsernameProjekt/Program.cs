@@ -4,24 +4,27 @@ class Program
 {
     static void Main(string[] args) 
     {
-        Console.Write("Skriv in ditt username: ");
-        string username = Console.ReadLine();
-
-        if (username.Length < 2 || username.Length > 20) 
+        while (true)
         {
-            Console.WriteLine("Username får endast vara mellan 2 och 20 bokstäver långt.");
-        }
+            Console.Write("Skriv in ditt username: ");
+            string username = Console.ReadLine();
 
-        else if (!Regex.IsMatch(username, "[a-zA-Z]^+$"))
-        {
-            Console.WriteLine("Username får endast innehålla bokstäver.");
-        }
+            if (username.Length < 2 || username.Length > 20) 
+            {
+                Console.WriteLine("Username får endast vara mellan 2 och 20 bokstäver långt.");
+            }
 
-        else 
-        {
-            Console.WriteLine("Username är godkänt.");
-        }
+            else if (!Regex.IsMatch(username, "^[a-zA-Z]+$"))
+            {
+                Console.WriteLine("Username får endast innehålla bokstäver.");
+            }
 
+            else 
+            {
+                Console.WriteLine("Username är godkänt.");
+                break;
+            }
+        }
         Console.ReadLine();
     }
 }
